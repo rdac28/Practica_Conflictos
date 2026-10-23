@@ -1,1 +1,3 @@
-Cambio final unificado y solucionado entre main y desarrollo
+Cambio realizado directamente desde la pagina web de GitHub
+
+"Actualización remota"
