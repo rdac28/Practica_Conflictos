@@ -1,1 +1,1 @@
-Línea base del proyecto inicial
+Cambio realizado en la rama main generando conflicto
